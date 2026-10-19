@@ -1,2 +1,2 @@
-# dunk-card-game
+# tunk-card-game
 Online Tunk card game
